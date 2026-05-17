@@ -1,0 +1,22 @@
+# Keystore — never commit signing credentials
+*.keystore
+*.jks
+
+# Build outputs
+*.apk
+*.aab
+*.idsig
+build/
+app/build/
+
+# Gradle
+.gradle/
+gradle.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+local.properties
+
+# macOS
+.DS_Store
