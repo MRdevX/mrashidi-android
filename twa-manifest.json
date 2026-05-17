@@ -20,8 +20,8 @@
     "path": "/Users/dee/Development/github-projects/mrashidi-android/android.keystore",
     "alias": "android"
   },
-  "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionName": "2",
+  "appVersionCode": 2,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://mrashidi.me/manifest.json",
@@ -36,12 +36,17 @@
   "fullScopeUrl": "https://mrashidi.me/",
   "minSdkVersion": 21,
   "orientation": "portrait-primary",
-  "fingerprints": [],
+  "fingerprints": [
+    {
+      "name": "release",
+      "value": "C8:0D:A1:F2:68:61:6A:4B:49:75:19:28:06:2A:8D:6B:44:1A:31:24:B3:66:CE:1B:D5:06:CC:E0:42:D8:6A:A1"
+    }
+  ],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
   "protocolHandlers": [],
   "fileHandlers": [],
   "launchHandlerClientMode": "",
   "displayOverride": [],
-  "appVersion": "1"
+  "appVersion": "2"
 }
